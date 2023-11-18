@@ -3,3 +3,4 @@ Age     :     19
 Place   :     porur
 District:     tiruvallur
 Hobbies  :     games,cricket
+Skin tone :    dusky
