@@ -4,3 +4,5 @@ Place   :     chennai
 District:     tiruvallur
 Hobbies  :     games,cricket
 Skin tone :    dusky
+College  : geaalasodefn
+Class   : BCA
