@@ -1,6 +1,6 @@
 Name    :     kumaravel
 Age     :     19
-Place   :     porur
+Place   :     chennai
 District:     tiruvallur
 Hobbies  :     games,cricket
 Skin tone :    dusky
