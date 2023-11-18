@@ -4,4 +4,3 @@ Place   :     porur
 District:     tiruvallur
 Hobbies  :     games,cricket
 Skin tone :    dusky
-system Name : Lenovo
